@@ -16,7 +16,7 @@ Follow these 6 steps to install WSL:
 ### Step 1 - Enable WSL
 <code style="padding: 20px; background-color: #f4f4f4;">dism.exe /online /enable-feature /featurename:Microsoft-Windows-Subsystem-Linux /all /norestart</code>
 
-### Step 3 - Check requirements for running WSL 2
+### Step 2 - Check requirements for running WSL 2
 
 (Ensure you meet the version and build number criteria)
 Update to the latest Windows version in the Settings menu if needed.
